@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite">
+	<test name="Test">
+		<classes>
+			<class name="pavan.kumar.s.FacebookOpenPage" />
+			<class name="pavan.kumar.s.CreateAccount" />
+			<class name="pavan.kumar.s.LoginPage" />
+			<class name="pavan.kumar.s.Account" />
+			<class name="pavan.kumar.s.EnteringIntoProfile" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
